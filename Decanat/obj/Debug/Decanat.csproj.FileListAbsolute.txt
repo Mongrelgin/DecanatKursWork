@@ -1,0 +1,15 @@
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\bin\Debug\Decanat.exe.config
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\bin\Debug\Decanat.exe
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\bin\Debug\Decanat.pdb
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.csproj.AssemblyReference.cache
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.MainForm.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.Properties.Resources.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.csproj.GenerateResource.cache
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.csproj.CoreCompileInputs.cache
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.exe
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.pdb
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.BestStudentsTable.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.GraphPainter.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.SpecializationDiagrams.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.InformaticDiagram.resources
+C:\Users\mongr\Desktop\Petya\Decanat\Decanat\obj\Debug\Decanat.StudentGraph.resources
